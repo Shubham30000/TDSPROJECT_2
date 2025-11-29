@@ -1,0 +1,11 @@
+{
+  "quiz_text": "POST this JSON to\n/submit\n{\n  \"email\": \"your email\",\n  \"secret\": \"your secret\",\n  \"url\": \"\n/demo\",\n  \"answer\": \"anything you want\"\n}",
+  "submit_url": "https://tds-llm-analysis.s-anand.net/submit",
+  "file_urls": [],
+  "all_links": [
+    "https://tds-llm-analysis.s-anand.net/demo",
+    "https://tds-llm-analysis.s-anand.net/submit"
+  ],
+  "source": null,
+  "original_url": "https://tds-llm-analysis.s-anand.net/demo"
+}
