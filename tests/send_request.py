@@ -15,7 +15,7 @@ payload = {
 
 try:
     response = httpx.post(
-        "http://localhost:8000/receive_request",
+        "http://localhost:7860/receive_request",
         json=payload,
         timeout=20.0,        # explicitly give more time
     )
