@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104-green.svg)](https://fastapi.tiangolo.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![HuggingFace](https://img.shields.io/badge/🤗-HuggingFace-orange.svg)](https://huggingface.co/spaces/Zenitsu2121/TDS_Project2)
+[![HuggingFace](https://img.shields.io/badge/🤗-HuggingFace-orange.svg)](https://zenitsu2121-tds-quiz-solver.hf.space/)
 
 An intelligent system that autonomously solves data analysis quizzes using Large Language Models (LLMs) and web scraping technologies. Built for the IIT Madras TDS Course Project 2.
 
