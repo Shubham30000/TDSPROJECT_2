@@ -18,7 +18,7 @@ This project implements an end-to-end automated quiz-solving pipeline that:
 - ✅ Submits answers and handles multi-stage quiz chains automatically
 - ✅ **Supports data visualization** - generates charts as base64 PNG images
 
-**Live Demo:** [https://zenitsu2121-tds-project2.hf.space](https://zenitsu2121-tds-project2.hf.space)
+**Live Demo:** [https://zenitsu2121-tds-project2.hf.space](https://zenitsu2121-tds-quiz-solver.hf.space/)
 
 ---
 
